@@ -1,5 +1,5 @@
 This is basically a CRUD (Create, Read, Update, Delete ) application, and also I have used the session variable for maintaining sessions among the various pages.
-I have used PHP and MySQL databases for the backend and for the frontend I used HTML, CSS, and JavaScript. 
+I have used PHP and MySQL database for the backend and for the frontend I used HTML, CSS, and JavaScript. 
 New users have to register on the site and existing users can log in to the site with proper credentials. 
 Password will be saved in the database in an encrypted format which provides extra security that no one can view your password, not even the site admin. 
 There is only one login interface provided for the normal user and as well for admin user. It will automatically recognize the type of logged-in user. If the logged-in user is the admin user then it will provide an admin home page otherwise for the normal user it will provide the normal user home page.
